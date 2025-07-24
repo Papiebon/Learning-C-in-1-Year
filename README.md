@@ -1,4 +1,4 @@
-# Learning-C-in-1-Year
+# Learning-CSharp-in-1-Year
 Learning C# for 1 Year
 365-Day C# Learning Plan
 
